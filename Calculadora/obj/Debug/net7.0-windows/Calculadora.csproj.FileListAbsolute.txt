@@ -1,0 +1,17 @@
+E:\GitHubProjects\Calculadora\bin\Debug\net7.0-windows\Calculadora.exe
+E:\GitHubProjects\Calculadora\bin\Debug\net7.0-windows\Calculadora.deps.json
+E:\GitHubProjects\Calculadora\bin\Debug\net7.0-windows\Calculadora.runtimeconfig.json
+E:\GitHubProjects\Calculadora\bin\Debug\net7.0-windows\Calculadora.dll
+E:\GitHubProjects\Calculadora\bin\Debug\net7.0-windows\Calculadora.pdb
+E:\GitHubProjects\Calculadora\obj\Debug\net7.0-windows\Calculadora.csproj.AssemblyReference.cache
+E:\GitHubProjects\Calculadora\obj\Debug\net7.0-windows\Calculadora.Calculadora.resources
+E:\GitHubProjects\Calculadora\obj\Debug\net7.0-windows\Calculadora.csproj.GenerateResource.cache
+E:\GitHubProjects\Calculadora\obj\Debug\net7.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHubProjects\Calculadora\obj\Debug\net7.0-windows\Calculadora.AssemblyInfoInputs.cache
+E:\GitHubProjects\Calculadora\obj\Debug\net7.0-windows\Calculadora.AssemblyInfo.cs
+E:\GitHubProjects\Calculadora\obj\Debug\net7.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+E:\GitHubProjects\Calculadora\obj\Debug\net7.0-windows\Calculadora.dll
+E:\GitHubProjects\Calculadora\obj\Debug\net7.0-windows\refint\Calculadora.dll
+E:\GitHubProjects\Calculadora\obj\Debug\net7.0-windows\Calculadora.pdb
+E:\GitHubProjects\Calculadora\obj\Debug\net7.0-windows\Calculadora.genruntimeconfig.cache
+E:\GitHubProjects\Calculadora\obj\Debug\net7.0-windows\ref\Calculadora.dll
